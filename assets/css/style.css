@@ -1,0 +1,8 @@
+.image-container {
+    background-image: url('image/img.10.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 90px 0;
+}
+
